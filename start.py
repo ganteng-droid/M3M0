@@ -60,24 +60,24 @@ def logo():
                  ####E'        +-+-+-+-+-+-+-+-+-+
                  N###b         
               ,######MN#.
-             (N######MN#M     [M3M0]
-             ###########R)    1)Reveers Ip
-             @###########-    2)cms detector
-             N###########p    3)SQLi LFI RFI XSS Scanner
-            #############E    4)007Bot (Mass Shell Uploader & Brute)
-            N############b    5)Modern login page (Bruteforcer)
-           (N############p    6)Mass Upload Shell In Wordpress (user&password)
-            NRR########RRE    7)Mass Upload Shell In Joomla (user&password)
-            ;@##########M^    8)Mass Wordpress,Joomla,Drupal,Magento& OpenCart (Bruteforcer)
-             N#########M#/    9)all Admin Login Bypass & Exploit
-             7K###R#R###M7    10)MD5 Ckracker
-             (N##M=(N##R-     11)Google Dorcker Bypass Captcha
+             (N######MN#M     {><M3M0><BoT><}
+             ###########R)    1]--> Reveers Ip
+             @###########-    2]--> cms detector
+             N###########p    3]--> SQLi LFI RFI XSS Scanner
+            #############E    4]--> 007Bot (Mass Shell Uploader & Brute)
+            N############b    5]--> Modern login page (Bruteforcer)
+           (N############p    6]--> Mass Upload Shell In Wordpress (user&password)
+            NRR########RRE    7]--> Mass Upload Shell In Joomla (user&password)
+            ;@##########M^    8]--> Mass Wordpress,Joomla,Drupal,Magento& OpenCart (Bruteforcer)
+             N#########M#/    9]--> all Admin Login Bypass & Exploit
+             7K###R#R###M7    10]-->MD5 Ckracker
+             (N##M=(N##R-     11]-->Google Dorcker Bypass Captcha
              #N##-  N##M'
              jNRR'  NNNM/
              4NRb   'TN#\
              4NN     NNT
               bL     N@
-             4pN     b#p,
+             4pN     b#p`>
 +-------- [M3M0] Hack Like a Bro Good Luck!! --------+
 
 			                  """
